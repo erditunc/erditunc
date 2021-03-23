@@ -1,0 +1,3 @@
+- 👋 Hi, I'm @erditunc
+- 🌱 I’m currently learning Python
+- 📫 How to reach me : erditunc@gmail.com
